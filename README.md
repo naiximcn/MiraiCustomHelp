@@ -1,11 +1,11 @@
-# MiraiUtils
-根据我自己的需求编写的mirai工具库
+# MiraCustomHelp
+一个自定义Mirai帮助的插件
 
 
 编写环境 `jdk8` `mirai 2.2.0`
 
+Help文件是 `.\src\top\mrxiaom\miraiutils\CommandHelp.java`
 
-> **本工具库包含以下内容:**
-> * [命令系统](https://github.com/MrXiaoM/MiraiUtils/blob/main/docs/Command.md) (因为我玩不明白mirai的命令系统才自己写的)
+如需更改Help 请自行`更改源码+构建`
 
-更多内容敬请期待
+提示：`\n`可以换行
